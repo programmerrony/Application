@@ -3,6 +3,6 @@
     <title>Welcome</title>
   </head>
   <body>
-    <h1>Hello world</h1>
+    <h2>Hello world</h2>
   </body>
 </html>
